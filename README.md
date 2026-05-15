@@ -8,7 +8,7 @@ Uses upscaled textures aswell as HD Textures from SpaceODY's Space Shuttle Syste
 ## Sol CanaveralHD Placement Fix
 
 Fixes the placement of the CanaveralHD MapDecal Placement on Real Scale Sol. 
-Note: The CanaveralHD MapDecal is downscaled to 0.9x to make it fit properly if you're trying to use existing KerbalKonstructs Instances)
+(Note: The CanaveralHD MapDecal is downscaled to 0.9x to make it fit properly if you're trying to use existing KerbalKonstructs Instances)
 
 <img width="1888" height="700" alt="capefix" src="https://github.com/user-attachments/assets/3e2647cf-bcec-4029-9624-949e9ae1e626" />
 
